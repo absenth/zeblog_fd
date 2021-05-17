@@ -23,6 +23,7 @@
 1. Power Loss of the Laptop should not result in losing logs.
 2. Design for future multi-station logs (ie. one log, multiple computers)
 3. Detect and Alert on Dupes (Same Callsign/Mode/Band)
+   * look into `write ahead` or `live search`
 4. It would be nice if we could pull BAND/Frequency data from the Rig.
 
 ###
